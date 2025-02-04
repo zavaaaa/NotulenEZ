@@ -1,2 +1,6 @@
 # NotulenEZ
-"Program to easily create transcripts and summaries"
+"Program to easily create meeting transcripts and summaries"
+
+
+
+
