@@ -32,8 +32,8 @@ Program ini menggunakan beberapa AI yaitu
      
   3. Check CUDA pada GPU
    Jika memiliki GPU NVIDIA, Anda bisa menjalankan:
-          import torch
-          print(torch.cuda.is_available())  # Jika True, berarti bisa menggunakan GPU
+          ""import torch
+          print(torch.cuda.is_available())  # Jika True, berarti bisa menggunakan GPU""
     Untuk mengaktifkan GPU, pastikan sudah menginstal CUDA Toolkit:
     🔗 https://developer.nvidia.com/cuda-downloads
 
